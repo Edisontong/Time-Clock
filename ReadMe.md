@@ -11,4 +11,4 @@ Time Clock
 
 - The whole thing is written in swift
 
-/Users/eddietong/Desktop/Screenshot 2023-02-15 at 1.18.44 PM.png
+![Screenshot 2023-02-15 at 1 18 44 PM](https://user-images.githubusercontent.com/122298502/219145860-d71cc05e-2dd8-455a-847c-381b1c79f615.png)
